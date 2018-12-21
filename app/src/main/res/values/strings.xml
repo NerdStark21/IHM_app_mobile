@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">App_project</string>
+    <string name="activity_main_button_edition">Edit</string>
+    <string name="title_input_name">Name :</string>
+</resources>

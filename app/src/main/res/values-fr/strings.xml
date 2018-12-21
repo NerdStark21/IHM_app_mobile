@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">App_project</string>
+    <string name="activity_main_button_edition">Edition</string>
+    <string name="title_input_name">Nom :</string>
+</resources>
